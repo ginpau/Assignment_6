@@ -15,7 +15,7 @@ public class AllLess {
                 "isse", "astor", "as", "entretien", "", "cal"};
         int x = 3;
 
-        lessThanX(s, x);
+        obj.lessThanX(s, x);
 
     }
 }
