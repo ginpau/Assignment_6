@@ -14,7 +14,7 @@ public class AllLess {
         String[] s = {"zero", "size", "nutella", "jojo", "luna",
                 "isse", "astor", "as", "entretien", "", "cal"};
         int x = 3;
-//
-        obj.lessThanX(s, x);
+
+        lessThanX(s, x);
     }
 }
