@@ -16,5 +16,6 @@ public class AllLess {
         int x = 3;
 
         lessThanX(s, x);
+
     }
 }
